@@ -2,7 +2,6 @@
 
 ![After Effects](https://img.shields.io/badge/After%20Effects-2020%2B-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Open%20Beta-orange?style=for-the-badge)
 [![BOOTH](https://img.shields.io/badge/BOOTH-adys.booth.pm-FC4D50?style=for-the-badge)](https://adys.booth.pm/)
 
 > [!IMPORTANT]
